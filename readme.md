@@ -23,4 +23,4 @@ This repository includes links to sources related to incidents mentioned in the 
 7. [Ukraine IDs FSB hackers](https://ssu.gov.ua/en/novyny/sbu-vstanovyla-khakeriv-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy)
 
 # Other Useful Sources
-1. [AnydayGuide](https://anydayguide.com/calendar/country), a very comprehensive guide to holidays, anniveraries, and other significant dates by country. Here are example calendars for [Ukraine](https://anydayguide.com/calendar/country/UA/print) and [Russia](https://anydayguide.com/calendar/country/RU/print). Click "show/hide unofficial holdays" to see a more complete list.
+1. [AnydayGuide](https://anydayguide.com/calendar/country), a very comprehensive guide to holidays, anniveraries, and other significant dates by country. Here are example calendars for [Ukraine](https://anydayguide.com/calendar/country/UA/print) and [Russia](https://anydayguide.com/calendar/country/RU/print). Click "show/hide unofficial holdays" to see a more complete list and click on specific holidays, anniveraries, etc. for more information. 
