@@ -21,3 +21,6 @@ This repository includes links to sources related to incidents mentioned in the 
 5. [USCYBERCOM's DPRK Independence Day samples](https://www.cyberscoop.com/cyber-command-virus-total-north-korean-malware/) 
 6. [USCYBERCOM Valentine's Day samples](https://twitter.com/cnmf_cyberalert/status/1228309162284781569)
 7. [Ukraine IDs FSB hackers](https://ssu.gov.ua/en/novyny/sbu-vstanovyla-khakeriv-fsb-yaki-zdiisnyly-ponad-5-tys-kiberatak-na-derzhavni-orhany-ukrainy)
+
+# Other Useful Sources
+1. [AnydayGuide](https://anydayguide.com/calendar/country), a very comprehensive guide to holidays, anniveraries, and other significant dates by country. Here are example calendars for [Ukraine](https://anydayguide.com/calendar/country/UA/print) and [Russia](https://anydayguide.com/calendar/country/RU/print). Click "show/hide unofficial holdays" to see a more complete list.
